@@ -1,0 +1,42 @@
+ .desgin {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Indie Flower', cursive;
+    background:url(../img/20.jpg);
+    background-size:cover;
+}
+
+.Sign-Up-From{
+    width: 200px;
+    box-shadow: 2px 3px 4px;
+    color: #fff;
+    padding:3%;
+    margin: 0% auto 0;
+    text-align: center;
+
+}
+.input-box{
+    font-size:80%;
+    padding-right:11px;
+    font-family: 'Indie Flower', cursive;
+    margin: 3px;
+}
+
+.btn{
+    font-family: 'Indie Flower', cursive;
+    color:#000085;
+    padding: 7px 15px;
+    margin:0px auto;
+    display:block;
+    border:none;
+    text-transform:uppercase;
+    font-size:10px;
+    -webkit-transition: 0.8s ease;
+    -moz-transition: 0.8s ease;
+    -o-transition: 0.8s ease;
+}
+
+.btn:hover{
+    cursor:pointer;
+    box-shadow:2px 4px 3px black;
+}
